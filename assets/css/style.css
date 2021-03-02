@@ -33,3 +33,30 @@
     color: white;
 }
 
+/*----------------------About Section---*/
+
+.about-hdg {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: auto;
+}
+
+.about-para {
+    text-align: center;
+    margin: auto;
+}
+
+/*----------------------Footer   ---*/
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.list-inline-item {
+    margin: auto;
+    padding-right: 50px;
+}
