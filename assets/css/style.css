@@ -37,8 +37,8 @@
 
 .about-hdg {
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     text-transform: uppercase;
     letter-spacing: 3px;
     margin: auto;
@@ -47,6 +47,7 @@
 .about-para {
     text-align: center;
     margin: auto;
+    padding-bottom: 40px;
 }
 
 /*----------------------Footer   ---*/
@@ -59,4 +60,36 @@
 .list-inline-item {
     margin: auto;
     padding-right: 50px;
+}
+
+
+/*----------------------Where to Visit   ---*/
+
+.city-hdg {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    color: black;
+}
+
+.img-card {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    float: left;
+}
+
+.card-text-box {
+    align-items: center;
+}
+
+.visit-hdg {
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
